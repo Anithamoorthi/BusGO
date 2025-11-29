@@ -23,7 +23,7 @@ Price and Available Seats (with visual emphasis for low availability).
 
 Dummy Data: Uses a pre-defined JavaScript array (busResults) to simulate fetching data from an API.
 
-💻 Technical Stack
+## Technical Stack
 
 Technology
 
@@ -41,13 +41,13 @@ Lucide React
 
 Used for clean, modern iconography (Bus, Clock, Dollar Sign, Users).
 
-📁 File Structure
+## File Structure
 
 The application is entirely self-contained in one file as required by the environment:
 
 BusSearchResultsApp.jsx: Contains the data model, the reusable BusResultCard component, and the main App component that renders the list of results.
 
-🚀 Usage
+## Usage
 
 Since this is a single, self-contained JSX file:
 
