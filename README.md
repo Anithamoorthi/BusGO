@@ -5,7 +5,7 @@ This is a single-file React application designed to simulate a modern, responsiv
 
 The entire application is contained within the BusSearchResultsApp.jsx file, utilizing React functional components and Tailwind CSS for rapid and aesthetic styling.
 
- ##Features
+ ## Features
 
 Responsive Design: Optimized for display on both mobile and desktop screens using Tailwind CSS utilities.
 
